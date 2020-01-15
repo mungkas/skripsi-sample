@@ -23,6 +23,6 @@ python tfrecord.py --type=test --csv_input=data/testlabels.csv  --output_path=da
 wget http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz
 
 ```
-atau bisa (http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz)[clik aja]
+atau bisa [clik aja](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz)
 
 # Setting Konfigurasi model dan class pada object
