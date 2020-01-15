@@ -26,3 +26,11 @@ wget http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coc
 atau bisa [clik aja](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz)
 
 # Setting Konfigurasi model dan class pada object
+
+```
+wget https://github.com/tensorflow/models/blob/master/research/object_detection/samples/configs/ssd_mobilenet_v1_coco.config
+
+```
+atau bisa [clik aja](https://github.com/tensorflow/models/blob/master/research/object_detection/samples/configs/ssd_mobilenet_v1_coco.config)
+
+#
